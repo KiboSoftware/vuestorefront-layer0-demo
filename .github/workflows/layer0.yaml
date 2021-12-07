@@ -22,7 +22,7 @@ on:
   push:
   release:
     types: [published]
-
+  workflow_dispatch:
 jobs:
   deploy-to-layer0:
     # cancels the deployment for the automatic merge push created when tagging a release

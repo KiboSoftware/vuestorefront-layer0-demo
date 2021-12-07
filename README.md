@@ -25,7 +25,7 @@
     ```   
 * Run `yarn` to install dependencies
     ```
-    $ yarn
+    $ yarn  
     ```
 * Install the [layer0 cli](https://docs.layer0.co/guides/cli)
     ```
